@@ -1,6 +1,0 @@
-		try {
-            BufferedWriter fw = new BufferedWriter(new OutputStreamWriter(new FileOutputStream("input/**", true), "UTF-8"));
-            fw.write(name+"\n");
-            fw.close();
-        } catch (IOException e) {
-        }
