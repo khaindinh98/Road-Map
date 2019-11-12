@@ -1,0 +1,44 @@
+43
+0	Ngã Tư Hoàng Diệu - Khánh Hội	16611	29040
+0	Ngã Tư Hoàng Diệu - Đường Số 45	16925	28797
+0	Ngã Ba Hoàng Diệu - Tân Vĩnh	17306	28491
+0	Ngã Tư Tân Vĩnh - Đường Số 12A	17550	28807
+0	Ngã Tư Đường Số 45 - Đường Số 10C	17638	29772
+0	Ngã Tư Tân Vĩnh - Đường Số 10C	18022	29469
+0	Ngã Tư Tân Vĩnh - Đường Số 41	18237	29791
+0	Ngã Tư Đường Số 41 - Đường Số 45	17852	30076
+0	Ngã Tư Khánh Hội - Đường Số 41	17551	30284
+0	Ngã Tư Khánh Hội - Đường Số 38	17992	30927
+0	Ngã Tư Vĩnh Hội - Khánh Hội	18606	31754
+0	Đường Khánh Hội	19066	32279
+0	Ngã Tư Khánh Hội - Hẻm 73 Khánh Hội	19199	32558
+0	Ngã Tư Vĩnh Hội - Đường Số 48	18362	32010
+0	Ngã Ba Vĩnh Hội - Đường Số 12B	18041	32297
+0	Ngã Ba Vĩnh Hội - Đường Số 10A - Hẻm 209 Tôn Thất Thuyết	17428	32291
+0	Ngã Ba Tân Vĩnh - Đường Số 34	18407	29982
+0	Ngã Tư Tân Vĩnh - Đường Số 30	18589	30247
+0	Ngã Ba Tân Vĩnh - Đường Số 38	18690	30402
+0	Ngã Ba Tân Vĩnh - Đường Số 40	18798	30558
+0	Ngã Ba Tân Vĩnh - Đường Số 42	18907	30703
+0	Ngã Ba Đường Số 42 - Đường Số 47	19071	30587
+0	Ngã Tư Đường Số 47 - Đường Số 49	19229	30767
+0	Ngã Ba Đường Số 47 - Đường Số 11	19618	31173
+0	Ngã Tư Hoàng Diệu - Nguyễn Hữu Hào	18536	27638
+0	Ngã Ba Hẻm 129/16 - Vĩnh Khánh	19380	27488
+0	Ngã Ba Hoàng Diệu - Hẻm 109D Bến Vân Đồn	19425	27081
+0	Ngã Tư Hoàng Diệu - Vĩnh Khánh	19118	27262
+0	Ngã Ba Hẻm 23 Hoàng Diệu - Hoàng Diệu	18808	27457
+0	Ngã Ba Nguyễn Hữu Hào - Hẻm 129/16	18760	27939
+0	Ngã Ba Hoàng Diệu - Đường Số 50	16808	28890
+0	Ngã Tư Đường Số 41 - Đường Số 50	17731	30162
+0	_Cơm Tấm Chị Cám	17496	29591
+0	Ngã Tư Đường Số 32 - Tân Vĩnh	18490	30105
+0	Ngã Ba Đường Số 36 - Đường Số 38	18481	30561
+0	Ngã Ba Đường Số 36 - Đường Số 30	18369	30399
+0	Ngã Ba Đường Số 32 - Đường Số 36	18271	30262
+0	Ngã Ba Đường Số 34 - Đường Số 36	18195	30159
+0	Hẻm 85 Hoàng Diệu - Hoàng Diệu	17536	28319
+0	_SammyStore	17443	28665
+0	Ngã Ba Đường Số 45 - Đường Số 34	18008	30276
+0	Ngã Ba Đường Số 38 - Đường Số 45	18314	30700
+0	Ngã Ba Tân Vĩnh - Đường Số 49	19060	30921

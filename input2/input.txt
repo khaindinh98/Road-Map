@@ -1,0 +1,55 @@
+19585	20309	Trà Tiên Hưởng	120 Hàm Nghi, Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam
+19749	20357	Givral Bakery	114 Ham Nghi Street, Ben Nghe Ward, District 1, Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam
+20015	20379	Hair Salon Designer Nguyễn Thế Hiển	102 Hàm Nghi, Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam
+20384	20369	Quán Cơm Gà Hải Nam	74 Hàm Nghi, Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam
+17777	28109	Cà Phê FamiLy	K52 Hoàng Diệu, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam
+17888	28219	Thỏ Hạt Dẻ Quận 4	L14 Hoàng Diệu, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam
+17848	28238	NÓN BẢO HIỂM CHI DŨNG	L8 Cư Xá Vĩnh Hội, đường Hoàng Diệu, Phường 6, P.6, Q.4, Hồ Chí Minh, Việt Nam
+17722	28306	Buzz Boutique	L6, Hoàng Diệu, Phường 6, Quận 4, Thành Phố Hồ Chí Minh, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam
+17441	28505	Bobapop Hoàng Diệu	295 Hoàng Diệu, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam
+17459	28654	Sammystore	111 Tân Vĩnh, Phường 6, Quận 4, Hồ Chí Minh 700000, Việt Nam
+17620	28845	Quán Phở Lựa	107 Tân Vĩnh, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam
+17551	28873	Cafe Skyland Vip	19 Số 12A, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam
+17584	28937	Napu Store	003C1, Tân Vĩnh, Phường 6, Quận 4, Thành Phố Hồ Chí Minh, Thành Phố Hồ Chí Minh, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam
+17663	28982	Tiệm Bánh Mì Thanh Vân	101, Tân Vĩnh, Phường 6, Quận 4, Thành Phố Hồ Chí Minh, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam
+17965	29467	Filin Coffee	58, Tân Vĩnh, Phường 6, Quận 4, Thành Phố Hồ Chí Minh, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam
+18543	29614	Cafe Phúc Viên	42, Đường Số 41, Phường 6, Quận 4, Thành Phố Hồ Chí Minh, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam
+18581	30327	Cà Phê Trung Nguyên	32 Số 10, Phường 3, Binh Thanh District, Hồ Chí Minh, Việt Nam
+17029	29493	Trà Sữa Tiên Hưởng	6, 4, 238 Đường Khánh Hội, Phường 5, Quận 4, Hồ Chí Minh, Việt Nam
+17484	30095	RoyalTea	178 Đường Khánh Hội, Phường 5, Quận 4, Hồ Chí Minh, Việt Nam
+17959	30059	SHANGRI-LA COFFEE AND TEA	Số 41, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam
+18073	30270	BOX Coffee	34 Số 45, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam
+18051	30815	Cà Phê Passio Quận 4	124 Đường Khánh Hội, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam
+17422	30667	Café Thư Giãn	202 Đường số 48, Phường 5, Quận 4, Hồ Chí Minh, Việt Nam
+18386	31013	Hồ bơi Vân Đồn	120_122 Đường Khánh Hội, Phường 3, Quận 4, Hồ Chí Minh, Việt Nam
+18418	31177	Trung tâm Thể dục Thể thao quận 4	120-122 Đường Khánh Hội, Phường 3, Quận 4, Hồ Chí Minh, Việt Nam
+18587	31877	Domino's Pizza Khánh Hội	131-133 Đường Khánh Hội, Phường 3, Quận 4, Hồ Chí Minh, Việt Nam
+18035	32355	Ngọc Sương	016 lô B1, Số 12B, Phường 3, Quận 4, Hồ Chí Minh, Việt Nam
+19179	33386	Trung Nguyên Coffee	262 Đường Khánh Hội, Phường 3, Quận 4, Hồ Chí Minh, Việt Nam
+19649	31823	Circle K Vĩnh Hội	16-18 Vĩnh Hội, Phường 4, Quận 4, Hồ Chí Minh, Việt Nam
+19891	31056	Trà Sữa BoardGame Vann Ta	33 Đường số 9, Phường 4, Quận 4, Hồ Chí Minh, Việt Nam
+20132	30792	Café de Nam - Mộc Coffee	Số, 9 Đường số 2, Phường 4, Quận 4, Hồ Chí Minh, Việt Nam
+17094	32946	Buon Me Thuoc Coffee Co., Ltd	215 Lot B1, Living Quater Ward 3, Ward 3, District 4, Phường 3, Quận 4, Hồ Chí Minh, Việt Nam
+21504	28039	COFFEE MILANO VĨNH KHÁNH	122/41 Vĩnh Khánh, Phường 10, Quận 4, Hồ Chí Minh, Việt Nam
+21422	25936	Cafe Dễ Thương	124, Lê Quốc Hưng, Phường 12, Quận 4, Thành Phố Hồ Chí Minh, Thành Phố Hồ Chí Minh, Phường 12, Quận 4, Hồ Chí Minh, Việt Nam
+21200	25791	Lotteria Hoàng Diệu	102 Lê Quốc Hưng, Phường 12, Quận 4, Hồ Chí Minh, Việt Nam
+21388	24927	Cà phê Milano	64 Nguyễn Trường Tộ, Phường 12, Quận 4, Hồ Chí Minh, Việt Nam
+21891	25240	Cà Phê Mây	72 Hoàng Diệu, Phường 12, Quận 4, Hồ Chí Minh, Việt Nam
+21450	24650	Green Field~Đồng Xanh Coffee	39 Nguyễn Trường Tộ, Phường 12, Quận 4, Hồ Chí Minh, Việt Nam
+21437	24727	Nhà Thiếu Nhi Quận 4	43 Nguyễn Trường Tộ, Phường 12, Quận 4, Hồ Chí Minh, Việt Nam
+22072	25092	Đại Lý Bia Nước Ngọt Phương Mai	56, Hoàng Diệu, Phường 12, Quận 4, Phường 12, Quận 4, Hồ Chí Minh, Việt Nam
+21688	25236	Chất Coffee	85 Nguyễn Trường Tộ, Phường 12, Quận 4, Hồ Chí Minh, Việt Nam
+18961	25146	Café de Nam - Coffee Phúc Thịnh	94, Đoàn Văn Bơ, P. 9, Q. 4, Phường 9, TP. Hồ Chí Minh, Hồ Chí Minh 070000, Việt Nam
+19576	25752	Book coffee - Tiếng Anh Ms Yến	58/4 Đoàn Văn Bơ, Phường 9, Quận 4, Hồ Chí Minh, Việt Nam
+16142	27308	Quán Nhậu Tới Bến	172-173 Bến Vân Đồn, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam
+16974	27745	Dear Coffee	I46 Cư Xá Vĩnh Hội, Phường 6, Quận 4, Hồ Chí Minh,Việt Nam
+15736	28798	Hoài Niệm Coffee	10 Đường Số 50, Phường 5, Quận 4, Hồ Chí Minh, Việt Nam
+18461	29523	Khách Sạn Hoàng Hải	57 Đường số 41, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam
+18383	29629	Coffe Lion ( Cà Phê Sư Tử)	45 Số 41, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam
+17535	29702	Cafe MT	65, Đường Số 45, Phường 6, Quận 4, Thành Phố Hồ Chí Minh, Phường 6, Quận 4, Hồ Chí Minh, Việt Nam
+18105	31208	Siêu Thị Điện Thoại Thế Giới Di Động Quận 4	163 - 165 Khánh Hội, P. 03, Phường 3, Q. 04, Hồ Chí Minh, Việt Nam18142	28169	Chó Mèo	11 Hoàng Diệu, Phường 3,...
+16899	29344	Quán Gà ta Lá chanh	242,, Khánh Hội, Phường 6, Quận 4, Thành phố Hồ Chí Minh, Phường 5, Quận 4, Hồ Chí Minh, Việt Nam
+16745	29074	Mom's Touch	262 Đường Khánh Hội, Phường 5, Quận 4, Hồ Chí Minh, Việt Nam
+16584	29589	Nhà Hàng Hải Sản Hương Lúa 5	226 Đường 48, Phường 5, Quận 4, Hồ Chí Minh, Việt Nam
+16624	29673	Phở Hương Xưa	228, Đường số 48, Phường 5, Quận 4, Hồ Chí Minh, Việt Nam
+16825	29784	Q Coffee	220 Đường số 48, Phường 5, Quận 4, Hồ Chí Minh, Việt Nam
