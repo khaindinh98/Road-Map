@@ -1,0 +1,9 @@
+8
+1	1	43	_	388	328
+2	0	43	2	65	Bệnh_viện_Nguyễn_Tri_Phương	390	288
+2	1	65	3	52	_	389	229
+3	2	52	5	162	7	110	_	378	180
+1	2	77	Công_viên_văn_lang	318	243
+2	4	77	6	54	Nhà_thiếu_nhi_Quận_5	236	253
+2	5	44	7	184	Trường_THCS_Chu_Văn_An	252	218
+2	3	110	6	184	Vòng_xoay_Nguyễn_Tri_Phương	358	72
